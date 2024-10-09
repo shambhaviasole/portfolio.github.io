@@ -1,0 +1,27 @@
+h1{
+    background-image: linear-gradient(rgb(87, 5, 57),rgb(119, 137, 147));
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+*{
+  font-family: cursive;
+  text-decoration: none;
+}
+#p1{
+    color: rgb(174, 15, 34);
+}
+h1{
+  position: sticky;
+  top: 0;
+}
+img{
+  transform: rotateX('20');
+}
+li{
+  padding-left: 10%;
+  display: inline;
+}
+aside{
+  text-decoration: none;
+}
